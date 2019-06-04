@@ -1,4 +1,3 @@
 
-var number = 10 {
-number += 2
-}
+var number = 10 
+add5()
