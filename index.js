@@ -1,3 +1,1 @@
-
-var number = 10 
-add5()
+function
